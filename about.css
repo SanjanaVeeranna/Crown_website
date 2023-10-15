@@ -95,10 +95,10 @@ img {
     background-repeat: no-repeat;
     background-position: center;
 }
-@media (min-width: 56.25em)
+@media (min-width: 56.25em){
 .about-header--heading-primary {
     top: 35rem;
-}
+}}
 .about-header--heading-primary {
     color: #eee;
     text-align: center;
@@ -109,20 +109,20 @@ img {
     z-index: 1;
     text-shadow: 1px 1px 2px #000;
 }
-@media (min-width: 56.25em)
+@media (min-width: 56.25em){
 .heading-primary {
     font-size: 8rem;
     letter-spacing: 6px;
-}
-@media (min-width: 40.62em)
+}}
+@media (min-width: 40.62em){
 .heading-primary {
     font-size: 6rem;
-}
-@media (min-width: 56.25em)
+}}
+@media (min-width: 56.25em){
 .about-header .img-cont {
     top: 35rem;
     height: calc(100vh - 40rem);
-}
+}}
 .about-header .img-cont {
     width: 97%;
     max-width: 114rem;
