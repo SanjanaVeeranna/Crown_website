@@ -5,4 +5,4 @@
   - Designed and implemented responsive web pages using HTML and CSS.
   - Created interactive features and enhanced user experience with JavaScript.
 - **Outcome**: Successfully replicated the main features of the original site, including the menu display, item selection, and user interactions, improving my front-end development skills and understanding of responsive design.
-https://github.com/SanjanaVeeranna/Crown_website/issues/1#issue-2318587716
+https://github.com/SanjanaVeeranna/Crown_website/issues/1#issue-2318587716 
